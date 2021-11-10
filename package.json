@@ -1,0 +1,26 @@
+{
+  "name": "serverless-jwt-authorizer",
+  "version": "1.0.0",
+  "description": "Sample project demonstrates AWS Lambda and API Gateway authorizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenSmile/serverless-jwt-authorizer.git"
+  },
+  "keywords": [],
+  "author": "benjkafirongo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenSmile/serverless-jwt-authorizer/issues"
+  },
+  "homepage": "https://github.com/BenSmile/serverless-jwt-authorizer#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dynamodb-toolbox": "^0.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^7.0.1"
+  }
+}
