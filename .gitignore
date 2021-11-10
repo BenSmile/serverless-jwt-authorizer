@@ -5,7 +5,7 @@ jspm_packages
 # Serverless directories
 .serverless
 
-secrets.json
+# secrets.json
 
 # lock files
 yarn.lock
